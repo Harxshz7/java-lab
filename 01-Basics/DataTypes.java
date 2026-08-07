@@ -1,4 +1,4 @@
-public class Datatype {
+public class DataTypes {
     public static void main(String[] args) {
         byte a = 10;
         short b = 20;

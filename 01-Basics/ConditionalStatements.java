@@ -1,4 +1,4 @@
-public class ifelseexample {
+public class ConditionalStatements {
     public static void main(String[] args) {
         int marks = 70;
         if (marks >= 35) {

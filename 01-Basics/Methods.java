@@ -1,4 +1,4 @@
-public class methods {
+public class Methods {
     static void display() {
         System.out.println("This is a static method");
     }
@@ -15,8 +15,8 @@ public class methods {
 
     public static void main(String[] args) {
         display();
-        new methods().show();
-        new methods().add(10, 20);
+        new Methods().show();
+        new Methods().add(10, 20);
 
     }
 }
